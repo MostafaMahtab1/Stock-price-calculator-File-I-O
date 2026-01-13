@@ -1,10 +1,9 @@
 /*
-Mostafa Mahtab, G01468551
-CS 262, Lab section 208
-Lab7: File I/O and Formatting
-			***New edition***
+
+			*** New edition ***
 Now supports tab character as well as spaces in the formatting.
 */
+
 #include <stdio.h>
 #include <stdlib.h>
 
